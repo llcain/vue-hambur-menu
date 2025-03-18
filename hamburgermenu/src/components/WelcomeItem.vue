@@ -10,13 +10,21 @@
           </ol>
          <li>save to github</li>
           <ol>
-            <li>git init<li>
-            <li>git add .<li>
-            <li>git commit -m "message"<li>
-            <li>create repo on github<li>
-            <li>git remote add origin "created repo on github link"<li>
-            <li>git push -u origin "branch name"<li>
+            <li>git init</li>
+            <li>git add .</li>
+            <li>git commit -m "message"</li>
+            <li>create repo on github</li>
+            <li>git remote add origin "created repo on github link"</li>
+            <li>git push -u origin "branch name"</li>
           </ol> 
+        <li>install dependencies</li>
+          <ol>
+            <li>install vue-pug plugin</li>
+          </ol>
+        <li>start vue app</li>
+          <ol>
+            <li>npm run dev</li>
+          </ol>
       </ul>
   </div>
 </template>
